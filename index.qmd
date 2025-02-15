@@ -1,0 +1,50 @@
+---
+title: "Statistica 1"
+subtitle: "Marketing, Comunicazione Aziendale e Mercati Globali"
+author: "[Riccardo Corradin]{.text-primary}"
+institute: "_Università degli Studi di Milano-Bicocca_"
+lang: it
+execute:
+  cache: true
+page-layout: full
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+editor: visual
+---
+
+------------------------------------------------------------------------
+In questa pagina verrà reso disponibile tutto il materiale relativo all'insegnamento di Statistica 1, erogato nel corso di studi di Marketing, Comunicazione Aziendale e Mercati Globali. 
+------------------------------------------------------------------------
+
+### Slides e materiale didattico
+
+Di seguito viene riportato il materiale didattico presentato a lezione. 
+
+| Argomenti | Materiale didattico |
+|------------------------|---------------------------|
+| Introduzione | [Slides introduzione](slides/sl_intro.pdf) |
+| Indici di posizione | [Slides introduzione](slides/sl_intro.pdf) |
+| Misure di dispersione | [Slides introduzione](slides/sl_intro.pdf) |
+| Statistica bivariata | [Slides introduzione](slides/sl_intro.pdf) |
+
+Il materiale può subire modifiche durante l'erogazione dell'insegnamento. 
+
+------------------------------------------------------------------------
+
+### Modalità d'esame
+
+L’esame prevede una prova scritta. La prova scritta consiste nello svolgimento di esercizi con lo scopo di misurare la capacità dello studente di applicare i concetti statistici appresi per la soluzione di problemi pratici. La valutazione complessiva tiene conto anche della capacità di commentare i risultati numerici ottenuti.
+
+------------------------------------------------------------------------
+
+### Libri di testo suggeriti
+- M. Zenga “Lezioni di statistica descrittiva”, Ed. Giappichelli, 2014
+- M. Zenga “Esercizi di statistica”, Ed. Giappichelli, 1993
+
+------------------------------------------------------------------------
+### Ringraziamenti
+
+Il materiale riportato in questa pagina è frutto del lavoro e dell'evoluzione negli anni di diverse risorse. Ringrazio Andrea Gilardi e Lucio De Capitani per aver condiviso materiale, idee e sviluppo. Tutti i meriti sono loro, tutti gli errori ancora presenti sono miei. 
