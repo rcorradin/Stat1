@@ -26,7 +26,7 @@ Di seguito viene riportato il materiale didattico presentato a lezione.
 | Argomenti             | Materiale didattico                     |
 |-----------------------|-----------------------------------------|
 | Introduzione          | [Slides introduzione](slides/intro.pdf) |
-| Indici di posizione   | TBD                                     |
+| Indici di posizione   | [Slides posizione](slides/posizione.pdf)|
 | Misure di dispersione | TBD                                     |
 | Statistica descrittiva bivariata  | TBD                                     |
 
