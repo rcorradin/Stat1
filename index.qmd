@@ -16,7 +16,7 @@ editor: visual
 ---
 
 |  |
-|----|
+|------------------------------------------------------------------------|
 | In questa pagina verrà reso disponibile tutto il materiale relativo all'insegnamento di Statistica 1, erogato nel corso di studi di Marketing, Comunicazione Aziendale e Mercati Globali. |
 
 ### Slides e materiale didattico
@@ -24,11 +24,11 @@ editor: visual
 Di seguito viene riportato il materiale didattico presentato a lezione.
 
 | Argomenti | Materiale didattico |
-|----|----|
+|------------------------------------|------------------------------------|
 | Introduzione | [Slides introduzione](slides/intro.pdf) |
 | Indici di posizione | [Slides posizione](slides/posizione.pdf) |
 | Misure di dispersione | [Slides dispersione](slides/dispersione.pdf) |
-| Statistica descrittiva bivariata | TBD |
+| Statistica descrittiva bivariata | [Slides bivariata](slides/bivariata.pdf) |
 
 Il materiale può subire modifiche durante l'erogazione dell'insegnamento.
 
