@@ -16,7 +16,7 @@ editor: visual
 ---
 
 |  |
-|----|
+|------------------------------------------------------------------------|
 | In questa pagina verrà reso disponibile tutto il materiale relativo all'insegnamento di Statistica 1, erogato nel corso di studi di Marketing, Comunicazione Aziendale e Mercati Globali. |
 
 ### Slides e materiale didattico
@@ -24,7 +24,7 @@ editor: visual
 Di seguito viene riportato il materiale didattico presentato a lezione.
 
 | Argomenti | Materiale didattico |
-|----|----|
+|------------------------------------|------------------------------------|
 | Introduzione | [Slides introduzione](slides/intro.pdf) |
 | Indici di posizione | [Slides posizione](slides/posizione.pdf) |
 | Misure di dispersione | [Slides dispersione](slides/dispersione.pdf) |
@@ -34,7 +34,21 @@ Il materiale può subire modifiche durante l'erogazione dell'insegnamento.
 
 ------------------------------------------------------------------------
 
+### Mock exam e formulario
+
+Di seguito trovate un esempio di come sarà il tema d'esame ed il formulario che troverete allegato alla prova d'esame. Non è necessario portare il proprio formulario. Durante lo svolgimento dell'esame potrete tenere con voi solamente penne, calcolatrice e badge di riconoscimento.
+
+-   [Mock exam](exam/mock.pdf)
+
+-   [Soluzione](exam/sol.pdf)
+
+-   [Formulario](exam/formulario.pdf)
+
+------------------------------------------------------------------------
+
 ### Ricevimento
+
+Per fissare un appuntamento, si prega di contattare in anticipo il docente via posta elettronica Ricevimento
 
 Per fissare un appuntamento, si prega di contattare in anticipo il docente via posta elettronica all'indirizzo `riccardo.corradin@unimib.it`. Il ricevimento è fissato ogni **martedì alle ore 16:30**.
 

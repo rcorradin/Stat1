@@ -5,6 +5,8 @@ project:
     - /slides
     - /img
     - /data
+    - /exam
+
 
 website:
   title: "Stat1"
